@@ -5,14 +5,14 @@
         <item name="colorPrimaryVariant">@color/primary_dark</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="colorAccent">@color/accent</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
     </style>
 
     <style name="Theme.MiMoChat.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowBackground">@color/primary</item>
         <item name="android:statusBarColor">@color/primary</item>
         <item name="android:navigationBarColor">@color/primary</item>
-        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

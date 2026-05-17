@@ -8,10 +8,11 @@
 
     <ImageView
         android:id="@+id/splashLogo"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:src="@mipmap/ic_launcher"
-        android:contentDescription="Logo"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/xiaomi_mimo_logo"
+        android:scaleType="fitCenter"
+        android:contentDescription="Xiaomi MiMo Logo"
         app:layout_constraintBottom_toTopOf="@+id/splashText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

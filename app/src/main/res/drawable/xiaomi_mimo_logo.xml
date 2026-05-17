@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Placeholder vector drawable for Xiaomi MiMo logo.
+    For production, replace this file with the actual xiaomi_mimo_logo.png 
+    placed in app/src/main/res/drawable/ for the real logo.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="200dp"
+    android:viewportWidth="400"
+    android:viewportHeight="200">
+
+    <!-- Xiaomi text -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M60,60 L80,60 L80,100 L60,100 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M88,60 Q100,60 106,68 L106,60 L120,60 L120,100 L106,100 L106,76 Q100,70 88,70 Q76,70 76,85 L76,100 L62,100 L62,60 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M130,60 L150,60 L150,100 L130,100 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M158,70 Q170,60 180,60 L180,70 Q172,70 166,76 L166,100 L152,100 L152,60 Q158,60 162,64 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M188,60 L210,100 L196,100 L188,80 L180,100 L166,100 L188,60 Z"/>
+
+    <!-- MIMO text -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M60,120 L80,120 L80,170 L60,170 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M88,120 L110,170 L120,170 L142,120 L130,120 L115,155 L100,120 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M150,120 L170,120 L170,170 L150,170 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M178,120 L200,170 L210,170 L232,120 L220,120 L205,155 L190,120 Z"/>
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M240,120 L268,120 Q280,120 280,135 Q280,150 268,150 L252,150 L252,170 L240,170 Z M252,132 L264,132 Q268,132 268,135 Q268,138 264,138 L252,138 Z"/>
+</vector>

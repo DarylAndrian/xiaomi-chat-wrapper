@@ -16,4 +16,16 @@ class WebAppInterface(private val context: Context) {
 
     @JavascriptInterface
     fun isNativeApp(): Boolean = true
+
+    @JavascriptInterface
+    fun openSidebar() {
+        // Called from JS to request sidebar opening
+        // The web app should handle its own sidebar open logic
+    }
+
+    @JavascriptInterface
+    fun closeSidebar() {
+        // Called from JS to request sidebar closing
+        // The web app should handle its own sidebar close logic
+    }
 }
