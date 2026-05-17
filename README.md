@@ -21,7 +21,7 @@ An Android application that serves as a dedicated container for the Xiaomi MiMo 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AiStudioWebView.git
+git clone https://github.com/YOUR_USERNAME/xiaomi-chat-wrapper.git
 ```
 
 ### 2. Open in Android Studio

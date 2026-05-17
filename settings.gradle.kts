@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AiStudioWebView"
+rootProject.name = "xiaomi-chat-wrapper"
 include(":app")

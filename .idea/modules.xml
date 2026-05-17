@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AistudioWebView.iml" filepath="$PROJECT_DIR$/AistudioWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomi-chat-wrapper.iml" filepath="$PROJECT_DIR$/xiaomi-chat-wrapper.iml" />
     </modules>
   </component>
 </project>
