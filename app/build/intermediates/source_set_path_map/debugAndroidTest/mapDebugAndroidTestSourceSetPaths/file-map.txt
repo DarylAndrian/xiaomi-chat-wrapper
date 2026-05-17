@@ -1,4 +1,4 @@
-com.xiaomi.aistudio.webview.test.app-androidTest-0 D:\AI & Code\MiMo APK\AistudioWebView\app\build\generated\res\resValues\androidTest\debug
-com.xiaomi.aistudio.webview.test.app-mergeDebugAndroidTestResources-1 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.xiaomi.aistudio.webview.test.app-mergeDebugAndroidTestResources-2 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.xiaomi.aistudio.webview.test.app-debugAndroidTest-3 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.xiaomi.aistudio.webview.test.app-androidTest-0 D:\AI & Code\xiaomi-chat-wrapper\app\build\generated\res\resValues\androidTest\debug
+com.xiaomi.aistudio.webview.test.app-mergeDebugAndroidTestResources-1 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.xiaomi.aistudio.webview.test.app-mergeDebugAndroidTestResources-2 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.xiaomi.aistudio.webview.test.app-debugAndroidTest-3 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -9,32 +9,32 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:5-67
-11-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:22-64
+11-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:5-79
-12-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:22-76
+12-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:5-76
-13-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:22-73
+13-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:7:5-76
+13-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:7:22-73
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:5-65
-14-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:22-62
+14-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:8:5-65
+14-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:8:22-62
 15    <uses-permission
-15-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:5-10:38
+15-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:9:5-10:38
 16        android:name="android.permission.READ_EXTERNAL_STORAGE"
-16-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:22-77
+16-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:9:22-77
 17        android:maxSdkVersion="32" />
-17-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:10:9-35
+17-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:10:9-35
 18    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-18-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:5-76
-18-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:22-73
+18-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:11:5-76
+18-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:11:22-73
 19    <uses-permission
-19-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:5-13:38
+19-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:12:5-13:38
 20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-20-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:22-78
+20-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:12:22-78
 21        android:maxSdkVersion="28" />
-21-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:13:9-35
+21-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:13:9-35
 22
 23    <permission
 23-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
@@ -48,62 +48,62 @@
 27-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 28
 29    <application
-29-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:15:5-45:19
+29-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:15:5-45:19
 30        android:allowBackup="true"
-30-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:16:9-35
+30-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:16:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 32        android:debuggable="true"
 33        android:extractNativeLibs="false"
 34        android:icon="@mipmap/ic_launcher"
-34-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:17:9-43
+34-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:17:9-43
 35        android:label="@string/app_name"
-35-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:18:9-41
+35-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:18:9-41
 36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:19:9-54
+36-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:19:9-54
 37        android:supportsRtl="true"
-37-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:20:9-35
-38        android:theme="@style/Theme.AiStudio"
-38-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:21:9-46
+37-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:20:9-35
+38        android:theme="@style/Theme.MiMoChat"
+38-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:21:9-46
 39        android:usesCleartextTraffic="false" >
-39-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:22:9-45
+39-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:22:9-45
 40        <activity
-40-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:25:9-34:20
+40-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:25:9-34:20
 41            android:name="com.xiaomi.aistudio.webview.SplashActivity"
-41-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:26:13-43
+41-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:26:13-43
 42            android:exported="true"
-42-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:27:13-36
+42-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:27:13-36
 43            android:screenOrientation="portrait"
-43-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:29:13-49
-44            android:theme="@style/Theme.AiStudio.Splash" >
-44-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:28:13-57
+43-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:29:13-49
+44            android:theme="@style/Theme.MiMoChat.Splash" >
+44-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:28:13-57
 45            <intent-filter>
-45-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:30:13-33:29
+45-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:30:13-33:29
 46                <action android:name="android.intent.action.MAIN" />
-46-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:17-69
-46-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:25-66
+46-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:31:17-69
+46-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:31:25-66
 47
 48                <category android:name="android.intent.category.LAUNCHER" />
-48-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:17-77
-48-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:27-74
+48-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:32:17-77
+48-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:32:27-74
 49            </intent-filter>
 50        </activity>
 51        <activity
-51-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:36:9-43:58
+51-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:36:9-43:58
 52            android:name="com.xiaomi.aistudio.webview.MainActivity"
-52-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:37:13-41
+52-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:37:13-41
 53            android:configChanges="orientation|screenSize|keyboard|keyboardHidden"
-53-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:39:13-83
+53-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:39:13-83
 54            android:exported="false"
-54-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:38:13-37
+54-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:38:13-37
 55            android:hardwareAccelerated="true"
-55-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:40:13-47
+55-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:40:13-47
 56            android:launchMode="singleTask"
-56-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:41:13-44
+56-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:41:13-44
 57            android:screenOrientation="unspecified"
-57-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:42:13-52
+57-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:42:13-52
 58            android:windowSoftInputMode="adjustResize" />
-58-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:43:13-55
+58-->D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:43:13-55
 59
 60        <provider
 60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

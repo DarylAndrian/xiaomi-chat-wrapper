@@ -31,10 +31,10 @@ com.xiaomi.aistudio.webview.app-cardview-1.0.0-29 C:\Users\Daryl\.gradle\caches\
 com.xiaomi.aistudio.webview.app-savedstate-ktx-1.2.1-30 C:\Users\Daryl\.gradle\caches\8.9\transforms\f6794163666710ac38d7cec68ce67a59\transformed\savedstate-ktx-1.2.1\res
 com.xiaomi.aistudio.webview.app-core-1.12.0-31 C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\res
 com.xiaomi.aistudio.webview.app-lifecycle-livedata-core-2.6.1-32 C:\Users\Daryl\.gradle\caches\8.9\transforms\fb6d2eaea119e29a1b798ef898bcd8ad\transformed\lifecycle-livedata-core-2.6.1\res
-com.xiaomi.aistudio.webview.app-pngs-33 D:\AI & Code\MiMo APK\AistudioWebView\app\build\generated\res\pngs\debug
-com.xiaomi.aistudio.webview.app-resValues-34 D:\AI & Code\MiMo APK\AistudioWebView\app\build\generated\res\resValues\debug
-com.xiaomi.aistudio.webview.app-packageDebugResources-35 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.xiaomi.aistudio.webview.app-packageDebugResources-36 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.xiaomi.aistudio.webview.app-debug-37 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.xiaomi.aistudio.webview.app-debug-38 D:\AI & Code\MiMo APK\AistudioWebView\app\src\debug\res
-com.xiaomi.aistudio.webview.app-main-39 D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\res
+com.xiaomi.aistudio.webview.app-pngs-33 D:\AI & Code\xiaomi-chat-wrapper\app\build\generated\res\pngs\debug
+com.xiaomi.aistudio.webview.app-resValues-34 D:\AI & Code\xiaomi-chat-wrapper\app\build\generated\res\resValues\debug
+com.xiaomi.aistudio.webview.app-packageDebugResources-35 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.xiaomi.aistudio.webview.app-packageDebugResources-36 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.xiaomi.aistudio.webview.app-debug-37 D:\AI & Code\xiaomi-chat-wrapper\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.xiaomi.aistudio.webview.app-debug-38 D:\AI & Code\xiaomi-chat-wrapper\app\src\debug\res
+com.xiaomi.aistudio.webview.app-main-39 D:\AI & Code\xiaomi-chat-wrapper\app\src\main\res

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Daryl\.gradle\caches\8.9\transforms\96f6ec58d5d132089cc1536864e902e0\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\4862cb7739f659878444a1840b1394ea\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\533cf362c03f859712788ac5de4b5fc5\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -53,50 +53,50 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\8d9d46c660395dd0ee6737640a518ff8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:5-76
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:22-73
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.CAMERA
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:8:22-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:5-10:38
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:9:5-10:38
 	android:maxSdkVersion
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:10:9-35
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:22-77
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:9:22-77
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:5-76
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:11:5-76
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:22-73
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:11:22-73
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:5-13:38
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:12:5-13:38
 	android:maxSdkVersion
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:13:9-35
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:12:22-78
 application
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:15:5-45:19
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:15:5-45:19
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:15:5-45:19
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:15:5-45:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\4862cb7739f659878444a1840b1394ea\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\4862cb7739f659878444a1840b1394ea\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\5924f688fdcc6f5f6c8e5e0c6910cd2c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -114,65 +114,65 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.g
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\6ae8239bbe00e974e0b27b30e91720db\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\6ae8239bbe00e974e0b27b30e91720db\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:19:9-54
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:19:9-54
 	tools:targetApi
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:23:9-29
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:23:9-29
 	android:icon
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:21:9-46
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:21:9-46
 	android:usesCleartextTraffic
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:22:9-45
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:22:9-45
 activity#com.xiaomi.aistudio.webview.SplashActivity
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:25:9-34:20
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:25:9-34:20
 	android:screenOrientation
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:29:13-49
 	android:exported
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:27:13-36
 	android:theme
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:28:13-57
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:28:13-57
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:26:13-43
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:26:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:30:13-33:29
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:32:27-74
 activity#com.xiaomi.aistudio.webview.MainActivity
-ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:36:9-43:58
+ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:36:9-43:58
 	android:screenOrientation
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:42:13-52
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:42:13-52
 	android:launchMode
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:41:13-44
 	android:hardwareAccelerated
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:40:13-47
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:40:13-47
 	android:windowSoftInputMode
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:43:13-55
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:43:13-55
 	android:exported
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:38:13-37
 	android:configChanges
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:39:13-83
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:39:13-83
 	android:name
-		ADDED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:37:13-41
+		ADDED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml:37:13-41
 uses-sdk
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
-INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
+INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Daryl\.gradle\caches\8.9\transforms\96f6ec58d5d132089cc1536864e902e0\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Daryl\.gradle\caches\8.9\transforms\96f6ec58d5d132089cc1536864e902e0\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\4862cb7739f659878444a1840b1394ea\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
@@ -270,9 +270,9 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Daryl\.gradle\caches\8.9\trans
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AI & Code\xiaomi-chat-wrapper\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\1fce71f4fbb9f408e07d3956491b8495\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20

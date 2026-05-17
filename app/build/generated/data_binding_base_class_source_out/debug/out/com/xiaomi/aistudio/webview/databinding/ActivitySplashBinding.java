@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -23,18 +22,9 @@ public final class ActivitySplashBinding implements ViewBinding {
   @NonNull
   public final ImageView splashLogo;
 
-  @NonNull
-  public final TextView splashTagline;
-
-  @NonNull
-  public final TextView splashText;
-
-  private ActivitySplashBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView splashLogo,
-      @NonNull TextView splashTagline, @NonNull TextView splashText) {
+  private ActivitySplashBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView splashLogo) {
     this.rootView = rootView;
     this.splashLogo = splashLogo;
-    this.splashTagline = splashTagline;
-    this.splashText = splashText;
   }
 
   @Override
@@ -70,20 +60,7 @@ public final class ActivitySplashBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.splashTagline;
-      TextView splashTagline = ViewBindings.findChildViewById(rootView, id);
-      if (splashTagline == null) {
-        break missingId;
-      }
-
-      id = R.id.splashText;
-      TextView splashText = ViewBindings.findChildViewById(rootView, id);
-      if (splashText == null) {
-        break missingId;
-      }
-
-      return new ActivitySplashBinding((ConstraintLayout) rootView, splashLogo, splashTagline,
-          splashText);
+      return new ActivitySplashBinding((ConstraintLayout) rootView, splashLogo);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
