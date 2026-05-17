@@ -1,6 +1,6 @@
-# AiStudio WebView
+# MiMo Chat WebView
 
-An Android application that serves as a dedicated container for the Xiaomi MiMo AiStudio web interface. This app provides a seamless, full-screen experience with integrated features like file uploads and pull-to-refresh.
+An Android application that serves as a dedicated container for the Xiaomi MiMo Chat web interface. This app provides a seamless, full-screen experience with integrated features like file uploads and pull-to-refresh.
 
 ## Features
 
