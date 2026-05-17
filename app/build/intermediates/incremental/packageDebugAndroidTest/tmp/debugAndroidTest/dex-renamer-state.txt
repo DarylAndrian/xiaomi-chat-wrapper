@@ -1,0 +1,7 @@
+#Mon May 18 05:15:15 CST 2026
+base.0=D\:\\AI & Code\\MiMo APK\\AistudioWebView\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\AI & Code\\MiMo APK\\AistudioWebView\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

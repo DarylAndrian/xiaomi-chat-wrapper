@@ -1,0 +1,175 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.xiaomi.aistudio.webview.debug"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:5-76
+13-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:5-65
+14-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:8:22-62
+15    <uses-permission
+15-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:5-10:38
+16        android:name="android.permission.READ_EXTERNAL_STORAGE"
+16-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:9:22-77
+17        android:maxSdkVersion="32" />
+17-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:10:9-35
+18    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+18-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:5-76
+18-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:11:22-73
+19    <uses-permission
+19-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:5-13:38
+20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+20-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:12:22-78
+21        android:maxSdkVersion="28" />
+21-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:13:9-35
+22
+23    <permission
+23-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+24        android:name="com.xiaomi.aistudio.webview.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+24-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+25        android:protectionLevel="signature" />
+25-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+26
+27    <uses-permission android:name="com.xiaomi.aistudio.webview.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+27-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+27-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+28
+29    <application
+29-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:15:5-45:19
+30        android:allowBackup="true"
+30-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:16:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.12.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/ic_launcher"
+34-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:17:9-43
+35        android:label="@string/app_name"
+35-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:18:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:19:9-54
+37        android:supportsRtl="true"
+37-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:20:9-35
+38        android:theme="@style/Theme.AiStudio"
+38-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:21:9-46
+39        android:usesCleartextTraffic="false" >
+39-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:22:9-45
+40        <activity
+40-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:25:9-34:20
+41            android:name="com.xiaomi.aistudio.webview.SplashActivity"
+41-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:26:13-43
+42            android:exported="true"
+42-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:27:13-36
+43            android:screenOrientation="portrait"
+43-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:29:13-49
+44            android:theme="@style/Theme.AiStudio.Splash" >
+44-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:28:13-57
+45            <intent-filter>
+45-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:30:13-33:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:17-69
+46-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:31:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:17-77
+48-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:32:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:36:9-43:58
+52            android:name="com.xiaomi.aistudio.webview.MainActivity"
+52-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:37:13-41
+53            android:configChanges="orientation|screenSize|keyboard|keyboardHidden"
+53-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:39:13-83
+54            android:exported="false"
+54-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:38:13-37
+55            android:hardwareAccelerated="true"
+55-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:40:13-47
+56            android:launchMode="singleTask"
+56-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:41:13-44
+57            android:screenOrientation="unspecified"
+57-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:42:13-52
+58            android:windowSoftInputMode="adjustResize" />
+58-->D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\AndroidManifest.xml:43:13-55
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+62            android:authorities="com.xiaomi.aistudio.webview.debug.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\1fce71f4fbb9f408e07d3956491b8495\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\1fce71f4fbb9f408e07d3956491b8495\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Daryl\.gradle\caches\8.9\transforms\1fce71f4fbb9f408e07d3956491b8495\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+72                android:value="androidx.startup" />
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+73        </provider>
+74
+75        <receiver
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+76            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+77            android:directBootAware="false"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+78            android:enabled="true"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+79            android:exported="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+80            android:permission="android.permission.DUMP" >
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+82                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+83            </intent-filter>
+84            <intent-filter>
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+85                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+86            </intent-filter>
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+88                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+91                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+92            </intent-filter>
+93        </receiver>
+94    </application>
+95
+96</manifest>

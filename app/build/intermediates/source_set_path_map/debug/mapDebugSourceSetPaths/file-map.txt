@@ -1,0 +1,40 @@
+com.xiaomi.aistudio.webview.app-lifecycle-viewmodel-2.6.1-0 C:\Users\Daryl\.gradle\caches\8.9\transforms\086d97b0dc6c6da7f6261feca2126b2e\transformed\lifecycle-viewmodel-2.6.1\res
+com.xiaomi.aistudio.webview.app-lifecycle-viewmodel-ktx-2.6.1-1 C:\Users\Daryl\.gradle\caches\8.9\transforms\0893c3b690c1e24f2c388c3bae1f05cb\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.xiaomi.aistudio.webview.app-transition-1.2.0-2 C:\Users\Daryl\.gradle\caches\8.9\transforms\0a949f21ea7d189d1c3adcb0be4f886b\transformed\transition-1.2.0\res
+com.xiaomi.aistudio.webview.app-annotation-experimental-1.3.0-3 C:\Users\Daryl\.gradle\caches\8.9\transforms\0ad906121eb7da64742a0cd838b42080\transformed\annotation-experimental-1.3.0\res
+com.xiaomi.aistudio.webview.app-emoji2-views-helper-1.2.0-4 C:\Users\Daryl\.gradle\caches\8.9\transforms\1a98af56e35c38f5a130697d02a65380\transformed\emoji2-views-helper-1.2.0\res
+com.xiaomi.aistudio.webview.app-lifecycle-process-2.6.1-5 C:\Users\Daryl\.gradle\caches\8.9\transforms\1fce71f4fbb9f408e07d3956491b8495\transformed\lifecycle-process-2.6.1\res
+com.xiaomi.aistudio.webview.app-drawerlayout-1.1.1-6 C:\Users\Daryl\.gradle\caches\8.9\transforms\28f0ec0ba8f312556cbd77e7e8c76bbe\transformed\drawerlayout-1.1.1\res
+com.xiaomi.aistudio.webview.app-activity-ktx-1.8.2-7 C:\Users\Daryl\.gradle\caches\8.9\transforms\325654d2d7b61fac0458a58a58e486d4\transformed\activity-ktx-1.8.2\res
+com.xiaomi.aistudio.webview.app-material-1.11.0-8 C:\Users\Daryl\.gradle\caches\8.9\transforms\4862cb7739f659878444a1840b1394ea\transformed\material-1.11.0\res
+com.xiaomi.aistudio.webview.app-profileinstaller-1.3.0-9 C:\Users\Daryl\.gradle\caches\8.9\transforms\5072f9afaa10d46583a6fe7486c84b9e\transformed\profileinstaller-1.3.0\res
+com.xiaomi.aistudio.webview.app-webkit-1.9.0-10 C:\Users\Daryl\.gradle\caches\8.9\transforms\50f209cbee519d37e589cf0dbb80deb6\transformed\webkit-1.9.0\res
+com.xiaomi.aistudio.webview.app-appcompat-resources-1.6.1-11 C:\Users\Daryl\.gradle\caches\8.9\transforms\533cf362c03f859712788ac5de4b5fc5\transformed\appcompat-resources-1.6.1\res
+com.xiaomi.aistudio.webview.app-constraintlayout-2.0.1-12 C:\Users\Daryl\.gradle\caches\8.9\transforms\5924f688fdcc6f5f6c8e5e0c6910cd2c\transformed\constraintlayout-2.0.1\res
+com.xiaomi.aistudio.webview.app-recyclerview-1.1.0-13 C:\Users\Daryl\.gradle\caches\8.9\transforms\5a04daa675063495f5011c575598a5be\transformed\recyclerview-1.1.0\res
+com.xiaomi.aistudio.webview.app-core-runtime-2.2.0-14 C:\Users\Daryl\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\res
+com.xiaomi.aistudio.webview.app-swiperefreshlayout-1.1.0-15 C:\Users\Daryl\.gradle\caches\8.9\transforms\610e827d3c2e5e8f4b10c7ca910e2566\transformed\swiperefreshlayout-1.1.0\res
+com.xiaomi.aistudio.webview.app-emoji2-1.2.0-16 C:\Users\Daryl\.gradle\caches\8.9\transforms\657a84e48281c99ada2f6e787a205a2a\transformed\emoji2-1.2.0\res
+com.xiaomi.aistudio.webview.app-startup-runtime-1.1.1-17 C:\Users\Daryl\.gradle\caches\8.9\transforms\6ae8239bbe00e974e0b27b30e91720db\transformed\startup-runtime-1.1.1\res
+com.xiaomi.aistudio.webview.app-savedstate-1.2.1-18 C:\Users\Daryl\.gradle\caches\8.9\transforms\786c332627c04ffb06220dec6643a503\transformed\savedstate-1.2.1\res
+com.xiaomi.aistudio.webview.app-lifecycle-livedata-2.6.1-19 C:\Users\Daryl\.gradle\caches\8.9\transforms\7f7243181d48f0403bce5548e03f63e0\transformed\lifecycle-livedata-2.6.1\res
+com.xiaomi.aistudio.webview.app-appcompat-1.6.1-20 C:\Users\Daryl\.gradle\caches\8.9\transforms\9b54b8caccd6430ff4077cba75ebf82c\transformed\appcompat-1.6.1\res
+com.xiaomi.aistudio.webview.app-lifecycle-runtime-ktx-2.6.1-21 C:\Users\Daryl\.gradle\caches\8.9\transforms\9d72d5af5551be01ea39da2daf2408ff\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.xiaomi.aistudio.webview.app-lifecycle-runtime-2.6.1-22 C:\Users\Daryl\.gradle\caches\8.9\transforms\9ec1e93723dd5a72a3bd61ea76554dc3\transformed\lifecycle-runtime-2.6.1\res
+com.xiaomi.aistudio.webview.app-lifecycle-viewmodel-savedstate-2.6.1-23 C:\Users\Daryl\.gradle\caches\8.9\transforms\afddb1d81ad9c46b9e59d8e85bbfa707\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.xiaomi.aistudio.webview.app-activity-1.8.2-24 C:\Users\Daryl\.gradle\caches\8.9\transforms\affb2c4915c0a45240430e26795c9cd1\transformed\activity-1.8.2\res
+com.xiaomi.aistudio.webview.app-core-ktx-1.12.0-25 C:\Users\Daryl\.gradle\caches\8.9\transforms\bc09a402c49a3c8886c1e210294d0fb5\transformed\core-ktx-1.12.0\res
+com.xiaomi.aistudio.webview.app-viewpager2-1.0.0-26 C:\Users\Daryl\.gradle\caches\8.9\transforms\c50f6ba5229202b3f1060b8bb2425cd3\transformed\viewpager2-1.0.0\res
+com.xiaomi.aistudio.webview.app-coordinatorlayout-1.1.0-27 C:\Users\Daryl\.gradle\caches\8.9\transforms\d3644c582cb1f9e8453f427fc5594fc4\transformed\coordinatorlayout-1.1.0\res
+com.xiaomi.aistudio.webview.app-fragment-1.3.6-28 C:\Users\Daryl\.gradle\caches\8.9\transforms\d404608f5903dc3abacfb0c9dbfa337f\transformed\fragment-1.3.6\res
+com.xiaomi.aistudio.webview.app-cardview-1.0.0-29 C:\Users\Daryl\.gradle\caches\8.9\transforms\f46f5da0c608f55fe2cb2cd80bd3c972\transformed\cardview-1.0.0\res
+com.xiaomi.aistudio.webview.app-savedstate-ktx-1.2.1-30 C:\Users\Daryl\.gradle\caches\8.9\transforms\f6794163666710ac38d7cec68ce67a59\transformed\savedstate-ktx-1.2.1\res
+com.xiaomi.aistudio.webview.app-core-1.12.0-31 C:\Users\Daryl\.gradle\caches\8.9\transforms\f82674b4cea02db7c56c55957478f2d3\transformed\core-1.12.0\res
+com.xiaomi.aistudio.webview.app-lifecycle-livedata-core-2.6.1-32 C:\Users\Daryl\.gradle\caches\8.9\transforms\fb6d2eaea119e29a1b798ef898bcd8ad\transformed\lifecycle-livedata-core-2.6.1\res
+com.xiaomi.aistudio.webview.app-pngs-33 D:\AI & Code\MiMo APK\AistudioWebView\app\build\generated\res\pngs\debug
+com.xiaomi.aistudio.webview.app-resValues-34 D:\AI & Code\MiMo APK\AistudioWebView\app\build\generated\res\resValues\debug
+com.xiaomi.aistudio.webview.app-packageDebugResources-35 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.xiaomi.aistudio.webview.app-packageDebugResources-36 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.xiaomi.aistudio.webview.app-debug-37 D:\AI & Code\MiMo APK\AistudioWebView\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.xiaomi.aistudio.webview.app-debug-38 D:\AI & Code\MiMo APK\AistudioWebView\app\src\debug\res
+com.xiaomi.aistudio.webview.app-main-39 D:\AI & Code\MiMo APK\AistudioWebView\app\src\main\res
