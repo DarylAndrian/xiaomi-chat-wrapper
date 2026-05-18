@@ -137,6 +137,9 @@ class MainActivity : AppCompatActivity() {
             when (event.action) {
                 MotionEvent.ACTION_DOWN -> {
                     isHorizontalSwipe = false
+                    // Only allow SwipeRefreshLayout if touch starts in the top 20% of the screen
+                    val topThreshold = view.height * 0.2f
+                    swipeRefresh.isEnabled = event.y <= topThreshold
                 }
                 MotionEvent.ACTION_MOVE -> {
                     // If significant horizontal movement detected, disable pull-to-refresh
