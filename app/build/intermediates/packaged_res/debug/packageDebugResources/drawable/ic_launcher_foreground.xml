@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- This foreground is now handled directly in mipmap-anydpi-v26/ic_launcher.xml -->
-<!-- Kept as empty vector to avoid build errors from references -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+
+    <!--
+        Square "mimo" Logo for the App Icon
+        Scaled down to 40% and centered to match Kimi/Claude proportions
+    -->
+    <group
+        android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:translateX="21"
+        android:translateY="21">
+
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillType="evenOdd"
+            android:pathData="
+                M 10,102 L 10,70 A 8,8 0 0,1 18,62 L 42,62 A 8,8 0 0,1 50,70 L 50,102
+                L 40,102 L 40,72 L 35,72 L 35,102 L 25,102 L 25,72 L 20,72 L 20,102 Z
+
+                M 55,102 L 55,62 L 65,62 L 65,102 Z
+
+                M 70,102 L 70,70 A 8,8 0 0,1 78,62 L 102,62 A 8,8 0 0,1 110,70 L 110,102
+                L 100,102 L 100,72 L 95,72 L 95,102 L 85,102 L 85,72 L 80,72 L 80,102 Z
+
+                M 115,70 A 8,8 0 0,1 123,62 L 147,62 A 8,8 0 0,1 155,70 L 155,94
+                A 8,8 0 0,1 147,102 L 123,102 A 8,8 0 0,1 115,94 Z
+
+                M 125,72 L 145,72 L 145,92 L 125,92 Z" />
+    </group>
 </vector>

@@ -5,59 +5,50 @@
     android:viewportWidth="400"
     android:viewportHeight="240">
 
-    <!-- Xiaomi Text Group -->
+    <!-- Wide Xiaomi MiMo Logo (White for Orange Splash) -->
     <group android:translateX="60" android:translateY="40">
-        <!-- X -->
+        <!-- Xiaomi Text -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M10,15 L25,30 L10,45 L18,45 L29,34 L40,45 L48,45 L33,30 L48,15 L40,15 L29,26 L18,15 Z" />
-        <!-- i -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M60,25 L60,45 L68,45 L68,25 Z M60,15 L60,20 L68,20 L68,15 Z" />
-        <!-- a -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M95,25 Q80,25 80,35 Q80,45 95,45 L105,45 L105,25 Z M105,25 L105,45 L113,45 L113,25 Z M95,31 Q105,31 105,35 Q105,39 95,39 Q87,39 87,35 Q87,31 95,31 Z" />
-        <!-- o -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M140,25 Q125,25 125,35 Q125,45 140,45 Q155,45 155,35 Q155,25 140,25 Z M140,31 Q148,31 148,35 Q148,39 140,39 Q132,39 132,35 Q132,31 140,31 Z" />
-        <!-- m -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M170,25 L170,45 L178,45 L178,28 Q178,25 185,25 Q192,25 192,28 L192,45 L200,45 L200,28 Q200,25 207,25 Q214,25 214,28 L214,45 L222,45 L222,25 Q222,18 207,18 Q200,18 196,22 Q192,18 185,18 Q178,18 170,25 Z" />
-        <!-- i -->
         <path
-            android:fillColor="#1A1A1A"
+            android:fillColor="#FFFFFF"
             android:pathData="M235,25 L235,45 L243,45 L243,25 Z M235,15 L235,20 L243,20 L243,15 Z" />
     </group>
 
-    <!-- MIMO Text Group (Stylized) -->
     <group android:translateX="75" android:translateY="120">
-        <!-- M -->
+        <!-- MIMO Text -->
         <path
-            android:strokeColor="#1A1A1A"
+            android:strokeColor="#FFFFFF"
             android:strokeWidth="10"
             android:strokeLineCap="round"
             android:strokeLineJoin="round"
             android:pathData="M10,60 L10,25 Q10,10 25,10 L45,45 L65,10 Q80,10 80,25 L80,60" />
-        <!-- I -->
         <path
-            android:strokeColor="#1A1A1A"
+            android:strokeColor="#FFFFFF"
             android:strokeWidth="10"
             android:strokeLineCap="round"
             android:pathData="M110,10 L110,60" />
-        <!-- M -->
         <path
-            android:strokeColor="#1A1A1A"
+            android:strokeColor="#FFFFFF"
             android:strokeWidth="10"
             android:strokeLineCap="round"
             android:strokeLineJoin="round"
             android:pathData="M140,60 L140,25 Q140,10 155,10 L175,45 L195,10 Q210,10 210,25 L210,60" />
-        <!-- O -->
         <path
-            android:strokeColor="#1A1A1A"
+            android:strokeColor="#FFFFFF"
             android:strokeWidth="10"
             android:strokeLineCap="round"
             android:pathData="M270,35 A25,25 0 1 1 255,12" />
